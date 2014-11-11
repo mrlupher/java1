@@ -23,7 +23,7 @@ public class JavaApplication46 {
         obj1.adder();
         Repete obj2 = new Repete();
         obj2.namer();
-                
+        System.out.println("Hey there!");         
         
     }
     
